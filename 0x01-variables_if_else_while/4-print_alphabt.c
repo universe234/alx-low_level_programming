@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - Prog Entry point where project begins
- * Return Always 0
+ * main - Entry point where the project begins
+ * Return Always 0 (success)
  */
+
 int main(void)
 {
 	char c;
