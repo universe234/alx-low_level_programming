@@ -4,8 +4,7 @@
  * times table - Prints the 9 times table, starting with 0
  * Return: empty output
  */
-
-void times_times(void)
+void times_table(void)
 
 {
 
